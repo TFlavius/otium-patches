@@ -1,0 +1,2 @@
+manifest.json filter=lfs diff=lfs merge=lfs -text
+payloads/* filter=lfs diff=lfs merge=lfs -text
